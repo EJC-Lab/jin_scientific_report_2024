@@ -26,9 +26,9 @@ An alternative prediction based on linear mixed model is discussed by
 Dr. Dimitris Rizopoulos with [dynamic
 predictions](https://stats.stackexchange.com/questions/367521/how-does-a-fitted-linear-mixed-effects-model-predict-longitudinal-output-for-a-n).
 Here we summarize the key points for the linear mixed model based
-prediction: For example, ${\hat{y}}\_{oj}$ denotes the observed outcome
+prediction: For example, ${\hat{y}}_{oj}$ denotes the observed outcome
 data for the new patient $j$, then you can first obtain an estimate, say
-$\hat{b}\_j^$ of his/her random effects from the posterior
+$\hat{b}_j^$ of his/her random effects from the posterior
 distribution $b_j \mid \hat{y}\_{oj}, \theta$, where $\theta$ denotes
 the model parameters. For example, $\hat{b}\_j^*\$ is the mean of this
 posterior distribution. Given this estimate of his/her random effects,
